@@ -53,7 +53,7 @@ window = display.set_mode((700, 500))
 display.set_caption('Изображение')
 #задай фон сцены
 background = transform.scale(image.load('background.jpg'), (700, 500))
-x1 = 200
+x1 = 100
 x2 = 500
 y1 = 130
 y2 = 250
